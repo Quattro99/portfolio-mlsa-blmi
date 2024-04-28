@@ -31,28 +31,20 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Recomended EOP / MDO standard & strict settings of Microsoft",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Those scripts are designed to automatically apply standard or strict recommended settings for EOP and MDO to a Microsoft 365 tenant.",
+    url: "https://github.com/Quattro99/PowerShellScripts/tree/main/Exchange%20Online/EOP_MDO",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Default Calendar User Permissions",
+    description: "This script sets the default calendar permissions to all user mailboxes.",
+    url: "https://github.com/Quattro99/PowerShellScripts/blob/main/Exchange%20Online/DefaultCalendarUser_Permissions.ps1",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Intune Device Cleamup Script",
+    description: "This script automatically cleans up old Intune devices.",
+    url: "https://github.com/Quattro99/PowerShellScripts/blob/main/Intune/Devices/IntuneDeviceCleanUp.ps1",
   },
 ];
 
