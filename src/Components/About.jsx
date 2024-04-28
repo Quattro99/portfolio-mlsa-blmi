@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm studying at ipso! Bildung AG to graduate as a bachelor of technology in HF computer science, specializing in system and network technology with cybersecurity.";
+  "I'm Michele Blum. I was born in Switzerland and have both Swiss and Italian roots. I'm 24 years old, and I can speak English, German, and Italian fluently.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "Transforming my set of skills and interests into practical experiences, I'm committed to making valuable contributions in the Microsoft community.";
+  "In my leisure time, I engage in activities that reflect my energetic and dynamic personality - gym, kickboxing, and exploring the adrenaline-pumping worlds of cars and motorcycles are a few of my passions. I'm studying at ipso! Bildung AG to graduate as a bachelor of technology in HF computer science, specializing in system and network technology with cybersecurity. When it comes to my work, I'm really interested in tech stuff. I am especially interested in Microsoft Azure Infrastructure, Entra ID, Identity & Access Management, and Cloud Security. Apart from these, I also know about Exchange Online, Exchange Online Protection, Microsoft Defender for Office, Microsoft Intune and Azure compute as well as networking. I also handle SQL databases and hybrid IT architectures. Last but not least, a long time ago, in a galaxy far, far away, I've heard some things about on-premise infrastructures and know my way around. Transforming my set of skills and interests into practical experiences, I'm committed to making valuable contributions in the Microsoft community.";
 
 const About = () => {
   return (
