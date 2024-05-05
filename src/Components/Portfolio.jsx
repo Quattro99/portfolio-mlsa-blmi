@@ -42,7 +42,7 @@ const projectList = [
     url: "https://github.com/Quattro99/PowerShellScripts/blob/main/Exchange%20Online/DefaultCalendarUser_Permissions.ps1",
   },
   {
-    title: "Intune Device Cleamup Script",
+    title: "Intune Device Cleanup Script",
     description: "This script automatically cleans up old Intune devices.",
     url: "https://github.com/Quattro99/PowerShellScripts/blob/main/Intune/Devices/IntuneDeviceCleanUp.ps1",
   },
